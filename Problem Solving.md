@@ -45,5 +45,8 @@
  - [Multidimensional DP](https://leetcode.com/list/e5dubese/)
  - [Digit Based DP](https://leetcode.com/list/e5dufyqj/)
  - [12 popular LC Backtracking Problem Solution in one format](https://leetcode.com/discuss/study-guide/2107728/12-popular-LC-Backtracking-Problem-Solution-in-one-format)
+
+# Topics you can't skip
+ - [TOPICS WHICH YOU CAN'T SKIP [INTERVIEW PREPARATION | STUDY PLAN] USING LEETCODE](https://leetcode.com/discuss/study-guide/1098600/topics-which-you-cant-skip-interview-preparation-study-plan-using-leetcode)
  
  

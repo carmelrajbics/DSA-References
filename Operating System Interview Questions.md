@@ -20,6 +20,19 @@
 18. mention any four scheduling algorithms and what is the best scheduling algorithm ?
 19. what is spooling?
 20. what is the use of trap bit?
- 
+  ## Questions realted Operating System faces in interview of 2021:
+22. What is Kernal? (V. Imp)
+23. What is a process in OS and What are the different states of a process?
+24. What is a Scheduling Algorithm? Name different types of scheduling algorithms.
+25. What do you mean by FCFS Algorithm and best advantages of it?
+26. What is virtual memory?
+27. What is virtual memory?
+28. What is Cache ? (Use a Example)
+29. What is the difference between paging and segmentation?
+30. What is thrashing in OS?
+
+
+## General OS Questions
+- [What-happens-in-the-background-from-the-time-you-press-the-Power-button-until-the-Linux-login-prompt-appears](https://leetcode.com/discuss/interview-question/operating-system/124638/what-happens-in-the-background-from-the-time-you-press-the-Power-button-until-the-Linux-login-prompt-appears)
 
 

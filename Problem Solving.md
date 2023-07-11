@@ -48,5 +48,7 @@
 
 # Topics you can't skip
  - [TOPICS WHICH YOU CAN'T SKIP [INTERVIEW PREPARATION | STUDY PLAN] USING LEETCODE](https://leetcode.com/discuss/study-guide/1098600/topics-which-you-cant-skip-interview-preparation-study-plan-using-leetcode)
- 
+
+ ### More References
+ [Linkedin](https://www.linkedin.com/in/aishwarya-mahapatra)
  

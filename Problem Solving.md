@@ -44,5 +44,6 @@
  - [DP(merging intervals)](https://leetcode.com/list/ehghlx1r/)
  - [Multidimensional DP](https://leetcode.com/list/e5dubese/)
  - [Digit Based DP](https://leetcode.com/list/e5dufyqj/)
+ - [12 popular LC Backtracking Problem Solution in one format](https://leetcode.com/discuss/study-guide/2107728/12-popular-LC-Backtracking-Problem-Solution-in-one-format)
  
  

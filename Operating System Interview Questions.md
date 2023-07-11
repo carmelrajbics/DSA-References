@@ -30,9 +30,15 @@
 28. What is Cache ? (Use a Example)
 29. What is the difference between paging and segmentation?
 30. What is thrashing in OS?
+31. Difference between forking and multithreading?
 
 
 ## General OS Questions
 - [What-happens-in-the-background-from-the-time-you-press-the-Power-button-until-the-Linux-login-prompt-appears](https://leetcode.com/discuss/interview-question/operating-system/124638/what-happens-in-the-background-from-the-time-you-press-the-Power-button-until-the-Linux-login-prompt-appears)
+- [What happens when we turn on computer?](https://leetcode.com/discuss/interview-question/operating-system/125107/What-happens-when-we-turn-on-computer)
+- [Operating system and kernel: Same or different?](https://leetcode.com/discuss/interview-question/operating-system/125029/Operating-system-and-kernel:-Same-or-different)
+- [Backtracking for Beginners [Problems]](https://leetcode.com/discuss/study-guide/2244368/Backtracking-for-Beginners-Problems)
+- [Backtracking algorithm + problems to practice](https://leetcode.com/discuss/study-guide/1405817/Backtracking-algorithm-%2B-problems-to-practice)
+- 
 
 
